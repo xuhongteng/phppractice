@@ -1,0 +1,16 @@
+/* body标签选择器 */
+body {
+  background: green;
+  color: white;
+}
+
+/* id选择器 */
+#javs{
+  color: blue;
+}
+
+/* 类选择器 */
+
+.spiderman{
+  color: red;
+}
